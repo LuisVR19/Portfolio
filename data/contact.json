@@ -1,0 +1,20 @@
+[
+  {
+    "label": "Email",
+    "value": "valverderiosluis26@gmail.com",
+    "href": "mailto:valverderiosluis26@gmail.com",
+    "icon": "mail"
+  },
+  {
+    "label": "LinkedIn",
+    "value": "www.linkedin.com/in/luis-valverde-rios-628356250",
+    "href": "https://www.linkedin.com/in/luis-valverde-rios-628356250",
+    "icon": "linkedin"
+  },
+  {
+    "label": "GitHub",
+    "value": "github.com/LuisVR19",
+    "href": "https://github.com/LuisVR19",
+    "icon": "github"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Lanamme UCR",
+    "role": {
+      "en": "Software Developer",
+      "es": "Desarrollador de Software"
+    },
+    "period": "Mar 2023 - Dec 2024",
+    "description": {
+      "en": "Development, design, and maintenance of web applications using .NET and SQL Server, ensuring quality, efficiency, and scalability in implemented systems.",
+      "es": "Desarrollo, diseño y mantenimiento de aplicaciones web utilizando .NET y SQL Server, asegurando calidad, eficiencia y escalabilidad en los sistemas implementados."
+    },
+    "technologies": [".NET", "SQL Server", "Git", "Scrum"]
+  },
+  {
+    "company": "Servicios Grupo Mundial",
+    "role": {
+      "en": "Intern Developer",
+      "es": "Desarrollador Pasante"
+    },
+    "period": "Aug 2024 - Dec 2024",
+    "description": {
+      "en": "Designed and developed a transactional application in .NET, incorporating user-centered UI/UX interfaces and optimizing data management through SQL Server.",
+      "es": "Diseño y desarrollo de una aplicacion transaccional en .NET, incorporando interfaces centradas en el usuario y optimizando la gestion de datos mediante SQL Server."
+    },
+    "technologies": [".NET", "SQL Server", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "company": "CR ATESA Software",
+    "role": {
+      "en": "Junior Software Developer",
+      "es": "Desarrollador de Software Junior"
+    },
+    "period": "Feb 2025 - Sep 2025",
+    "description": {
+      "en": "Development of banking applications using .NET and .NET Core under a microservices architecture, ensuring scalability, security, and efficient business processes.",
+      "es": "Desarrollo de aplicaciones bancarias utilizando .NET y .NET Core bajo arquitectura de microservicios, garantizando escalabilidad, seguridad y eficiencia en los procesos."
+    },
+    "technologies": [".NET", ".NET Core", "SQL Server", "Microservices", "Azure DevOps"]
+  },
+  {
+    "company": "Grupo Inteca",
+    "role": {
+      "en": "Software Developer",
+      "es": "Desarrollador de Software"
+    },
+    "period": "Sep 2025 - Present",
+    "description": {
+      "en": "Development of web applications using Angular and .NET, following clean code practices and microservices architecture, including database management and integration with Microsoft Dynamics AX.",
+      "es": "Desarrollo de aplicaciones web utilizando Angular y .NET, siguiendo principios de codigo limpio y arquitectura de microservicios, incluyendo gestion de bases de datos e integracion con Microsoft Dynamics AX."
+    },
+    "technologies": [".NET", "Angular", "SQL Server", "MySQL", "Dynamics AX"]
+  }
+]

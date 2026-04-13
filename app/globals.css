@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 40% 98%;
+    --foreground: 222.2 47.4% 11.2%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 47.4% 11.2%;
+    --primary: 221 83% 53%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 24 95% 53%;
+    --accent-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221 83% 53%;
+  }
+
+  .dark {
+    --background: 222 47% 7%;
+    --foreground: 210 40% 98%;
+    --card: 222 47% 10%;
+    --card-foreground: 210 40% 98%;
+    --primary: 199 89% 58%;
+    --primary-foreground: 222 47% 8%;
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217 33% 15%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 26 92% 57%;
+    --accent-foreground: 222 47% 8%;
+    --border: 217 33% 21%;
+    --input: 217 33% 21%;
+    --ring: 199 89% 58%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    background-image:
+      radial-gradient(circle at top left, rgba(56, 189, 248, 0.11), transparent 30%),
+      radial-gradient(circle at 90% 10%, rgba(251, 146, 60, 0.1), transparent 22%),
+      linear-gradient(to bottom, rgba(148, 163, 184, 0.08), transparent 22%);
+    min-height: 100vh;
+  }
+
+  ::selection {
+    @apply bg-primary/20 text-foreground;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply border border-white/20 bg-white/65 shadow-soft backdrop-blur-xl dark:border-white/10 dark:bg-slate-950/45;
+  }
+
+  .section-shell {
+    @apply rounded-[2rem] border border-white/10 bg-white/40 p-6 shadow-soft backdrop-blur-xl dark:bg-slate-950/30 md:p-8;
+  }
+
+  .section-heading {
+    @apply text-3xl font-semibold tracking-tight md:text-4xl;
+  }
+
+  .section-copy {
+    @apply max-w-2xl text-sm leading-7 text-muted-foreground md:text-base;
+  }
+}

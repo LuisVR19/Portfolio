@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "about": "Sobre mi",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "education": "Educacion",
+    "skills": "Habilidades",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "badge": "Desarrollador Full-Stack .NET Specialist",
+    "title": "Productos digitales elegantes construidos con arquitectura escalable y frontend moderno.",
+    "role": "Full-Stack Developer (.NET Specialist)",
+    "description": "Full-Stack Developer especializado en .NET y tecnologias web modernas. Experiencia en la construccion de aplicaciones escalables, arquitecturas de microservicios e interfaces responsivas modernas usando Angular y React.",
+    "summary": "Enfoque en arquitectura limpia, rendimiento y entrega colaborativa para productos empresariales confiables.",
+    "cta": {
+      "cv": "Descargar CV",
+      "projects": "Ver proyectos",
+      "contact": "Contacto"
+    }
+  },
+  "about": {
+    "eyebrow": "Resumen Profesional",
+    "title": "Construyendo sistemas mantenibles con un enfoque pragmatico y orientado al producto.",
+    "description": "Desarrollador Full-Stack con fuerte experiencia en servicios backend, interfaces responsivas y procesos de entrega escalables. Mi trabajo combina disciplina arquitectonica con un fuerte enfoque en usabilidad y mantenibilidad a largo plazo.",
+    "expertiseTitle": "Experiencia Principal",
+    "focusTitle": "Enfoque de Ingenieria",
+    "expertise": {
+      "dotnet": ".NET",
+      "sqlServer": "SQL Server",
+      "angular": "Angular",
+      "react": "React",
+      "microservices": "Arquitectura de Microservicios",
+      "azureDevOps": "Azure DevOps",
+      "scrum": "Metodologias Agiles (Scrum)"
+    },
+    "focus": {
+      "scalability": "Soluciones orientadas a escalabilidad para necesidades de negocio en evolucion",
+      "performance": "Optimizacion de rendimiento en frontend y backend",
+      "cleanArchitecture": "Arquitectura limpia con modulos reutilizables y testeables",
+      "automation": "Automatizacion y flujos de entrega mas eficientes"
+    }
+  },
+  "experience": {
+    "eyebrow": "Trayectoria",
+    "title": "Experiencia marcada por la entrega empresarial y la mejora continua.",
+    "description": "Una linea de tiempo de roles donde la calidad arquitectonica, la colaboracion y la ejecucion practica fueron clave."
+  },
+  "projects": {
+    "eyebrow": "Trabajo Destacado",
+    "title": "Proyectos pensados para sentirse pulidos, utiles y tecnicamente solidos.",
+    "description": "Una seleccion de trabajo que refleja equilibrio entre diseño de sistemas, usabilidad e implementacion mantenible.",
+    "viewProject": "Ver proyecto"
+  },
+  "education": {
+    "eyebrow": "Base Academica",
+    "title": "Formacion centrada en sistemas empresariales e ingenieria de software.",
+    "description": "Preparacion formal que reforzó pensamiento analitico, desarrollo estructurado y tecnologia alineada con necesidades reales."
+  },
+  "skills": {
+    "eyebrow": "Capacidades",
+    "title": "Un stack practico para el desarrollo moderno de productos y plataformas.",
+    "description": "Herramientas y tecnologias organizadas segun las areas donde generan mayor valor.",
+    "categories": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "database": "Base de Datos",
+      "devops": "DevOps",
+      "tools": "Herramientas"
+    }
+  },
+  "contact": {
+    "eyebrow": "Conversemos",
+    "title": "Construyamos algo bien pensado, confiable y cuidadosamente disenado.",
+    "description": "Disponible para nuevas oportunidades, colaboraciones y conversaciones sobre plataformas web modernas y software empresarial.",
+    "form": {
+      "title": "Formulario de Contacto",
+      "description": "Una interfaz lista para conectarse con tu backend o servicio de correo preferido.",
+      "name": "Tu nombre",
+      "email": "Correo electronico",
+      "subject": "Asunto",
+      "message": "Cuentame sobre tu proyecto u oportunidad",
+      "send": "Enviar mensaje"
+    }
+  },
+  "footer": {
+    "copy": "Luis Valverde Rios. Full-Stack Developer especializado en aplicaciones modernas y escalables.",
+    "madeWith": "Construido con Next.js, Tailwind CSS, shadcn/ui y Framer Motion."
+  }
+}

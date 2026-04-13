@@ -1,0 +1,50 @@
+[
+  {
+    "institution": "University of Costa Rica",
+    "degree": {
+      "en": "Bachelor's Degree in Business Informatics",
+      "es": "Bachillerato en Informática Empresarial"
+    },
+    "period": "2021 - 2024",
+    "description": {
+      "en": "Academic training centered on software engineering, business systems, data management, and technology-driven problem solving.",
+      "es": "Formación académica enfocada en ingeniería de software, sistemas empresariales, gestión de datos y resolución de problemas impulsada por tecnología."
+    }
+  },
+  {
+    "institution": "Coursera",
+    "degree": {
+      "en": "Introduction to DevOps Certification",
+      "es": "Certificación Introducción a DevOps"
+    },
+    "period": "2024",
+    "description": {
+      "en": "Fundamental concepts of DevOps, including continuous integration, automation, and modern software delivery practices.",
+      "es": "Conceptos fundamentales de DevOps, incluyendo integración continua, automatización y prácticas modernas de entrega de software."
+    }
+  },
+  {
+    "institution": "IBM",
+    "degree": {
+      "en": "Python 101 for Data Science Certification",
+      "es": "Certificación Python 101 para Ciencia de Datos"
+    },
+    "period": "2024",
+    "description": {
+      "en": "Introduction to Python programming focused on data science fundamentals and problem solving.",
+      "es": "Introducción a programación en Python enfocada en fundamentos de ciencia de datos y resolución de problemas."
+    }
+  },
+  {
+    "institution": "SCRUMstudy",
+    "degree": {
+      "en": "Scrum Fundamentals Certified",
+      "es": "Scrum Fundamentals Certified"
+    },
+    "period": "2024",
+    "description": {
+      "en": "Understanding Scrum principles, agile workflows, roles, and project collaboration techniques.",
+      "es": "Comprensión de principios Scrum, flujos ágiles, roles y técnicas de colaboración en proyectos."
+    }
+  }
+]

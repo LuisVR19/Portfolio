@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Full-Stack Developer .NET Specialist",
+    "title": "Elegant digital products built with scalable architecture and modern frontend craft.",
+    "role": "Full-Stack Developer (.NET Specialist)",
+    "description": "Full-Stack Developer specialized in .NET and modern web technologies. Experienced in building scalable applications, microservices architectures, and modern responsive interfaces using Angular and React.",
+    "summary": "Focused on clean architecture, performance, and collaborative delivery for reliable enterprise products.",
+    "cta": {
+      "cv": "Download CV",
+      "projects": "View Projects",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "eyebrow": "Professional Summary",
+    "title": "Building maintainable systems with a pragmatic, product-minded approach.",
+    "description": "Full-Stack Developer with strong expertise in backend services, responsive interfaces, and scalable delivery processes. My work combines architecture discipline with a strong focus on usability and long-term maintainability.",
+    "expertiseTitle": "Core Expertise",
+    "focusTitle": "Engineering Focus",
+    "expertise": {
+      "dotnet": ".NET",
+      "sqlServer": "SQL Server",
+      "angular": "Angular",
+      "react": "React",
+      "microservices": "Microservices Architecture",
+      "azureDevOps": "Azure DevOps",
+      "scrum": "Agile Methodologies (Scrum)"
+    },
+    "focus": {
+      "scalability": "Scalability-first solutions for evolving business needs",
+      "performance": "Performance optimization across frontend and backend layers",
+      "cleanArchitecture": "Clean architecture with reusable and testable modules",
+      "automation": "Automation and streamlined delivery workflows"
+    }
+  },
+  "experience": {
+    "eyebrow": "Career Path",
+    "title": "Experience shaped by enterprise delivery and continuous improvement.",
+    "description": "A timeline of roles where architecture quality, collaboration, and practical execution were central to the outcome."
+  },
+  "projects": {
+    "eyebrow": "Selected Work",
+    "title": "Projects designed to feel polished, useful, and technically robust.",
+    "description": "A curated set of work that reflects a balance of system design, usability, and maintainable implementation.",
+    "viewProject": "View project"
+  },
+  "education": {
+    "eyebrow": "Academic Foundation",
+    "title": "Education grounded in business systems and software engineering.",
+    "description": "Formal training that reinforced analytical thinking, structured development, and technology aligned with real organizational needs."
+  },
+  "skills": {
+    "eyebrow": "Capabilities",
+    "title": "A practical stack for modern product and platform development.",
+    "description": "Tools and technologies organized around the areas where they create the most value.",
+    "categories": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "database": "Database",
+      "devops": "DevOps",
+      "tools": "Tools"
+    }
+  },
+  "contact": {
+    "eyebrow": "Get In Touch",
+    "title": "Let's build something thoughtful, reliable, and well-crafted.",
+    "description": "Open to new opportunities, collaborations, and conversations around modern web platforms and enterprise software.",
+    "form": {
+      "title": "Contact Form",
+      "description": "A polished UI ready to connect to your preferred backend or email service.",
+      "name": "Your name",
+      "email": "Email address",
+      "subject": "Subject",
+      "message": "Tell me about your project or opportunity",
+      "send": "Send message"
+    }
+  },
+  "footer": {
+    "copy": "Luis Valverde Rios. Full-Stack Developer specialized in scalable, modern applications.",
+    "madeWith": "Built with Next.js, Tailwind CSS, shadcn/ui, and Framer Motion."
+  }
+}

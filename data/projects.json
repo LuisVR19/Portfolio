@@ -1,0 +1,40 @@
+[
+  {
+    "title": "TSG Feedback System",
+    "description": {
+      "en": "Developed an internal employee feedback system with a social network–style interface, implementing backend APIs and frontend components following SOLID principles.",
+      "es": "Desarrollo de un sistema interno de retroalimentacion para empleados con interfaz estilo red social, implementando APIs backend y componentes frontend siguiendo principios SOLID."
+    },
+    "technologies": [".NET Core", "MVC", "SQL Server", "HTML", "CSS", "JavaScript", "Azure DevOps"],
+    "year": "2024",
+    "link": "https://github.com/LuisVR19",
+    "linkLabel": "GitHub"
+  },
+  {
+    "title": "DAVIVIENDA Unified Workflow",
+    "description": {
+      "en": "Refactored a banking workflow system used for managing loan requests, implementing multiple APIs under a microservices architecture to improve scalability and maintainability.",
+      "es": "Refactorizacion de un sistema bancario para gestion de solicitudes de credito, implementando multiples APIs bajo arquitectura de microservicios para mejorar escalabilidad y mantenibilidad."
+    },
+    "technologies": [".NET", ".NET Core", "SQL Server", "Microservices", "REST APIs", "Azure DevOps"],
+    "year": "2025"
+  },
+  {
+    "title": "Lanamme Systems Refactoring and Maintenance",
+    "description": {
+      "en": "Participated in refactoring and maintaining enterprise systems including PEP, SCEL, CTL, and HVPP, improving performance, stability, and usability across multiple modules.",
+      "es": "Participacion en la refactorizacion y mantenimiento de sistemas empresariales como PEP, SCEL, CTL y HVPP, mejorando rendimiento, estabilidad y usabilidad en multiples modulos."
+    },
+    "technologies": [".NET", ".NET Core", "SQL Server", "HTML", "CSS", "JavaScript", "GitHub"],
+    "year": "2023"
+  },
+  {
+    "title": "POS Pinpad Integration Module",
+    "description": {
+      "en": "Implemented BAC pinpad compatibility in a POS system, including the development of modules for handling sales transactions through secure payment integration.",
+      "es": "Implementacion de compatibilidad con pinpad BAC en un sistema POS, incluyendo el desarrollo de modulos para procesar ventas mediante integracion segura de pagos."
+    },
+    "technologies": [".NET", "Angular", "SQL Server", "POS Systems", "Hardware Integration"],
+    "year": "2025"
+  }
+]

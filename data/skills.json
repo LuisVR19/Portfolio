@@ -1,0 +1,52 @@
+[
+  {
+    "category": "backend",
+    "items": [
+      { "name": ".NET", "icon": "server" },
+      { "name": ".NET Core", "icon": "server" },
+      { "name": "ASP.NET", "icon": "server" },
+      { "name": "C#", "icon": "server" },
+      { "name": "Microservices", "icon": "server" },
+      { "name": "REST APIs", "icon": "server" },
+            { "name": "Python", "icon": "code" },
+      { "name": "Java", "icon": "code" },
+      { "name": "X++", "icon": "code" }
+    ]
+  },
+  {
+    "category": "frontend",
+    "items": [
+      { "name": "Angular", "icon": "web" },
+      { "name": "React", "icon": "web" },
+      { "name": "JavaScript", "icon": "web" },
+      { "name": "HTML", "icon": "web" },
+      { "name": "CSS", "icon": "web" }
+    ]
+  },
+  {
+    "category": "database",
+    "items": [
+      { "name": "SQL Server", "icon": "database" },
+      { "name": "MySQL", "icon": "database" },
+      { "name": "Stored Procedures", "icon": "database" },
+      { "name": "Entity Framework", "icon": "database" }
+    ]
+  },
+  {
+    "category": "devops",
+    "items": [
+      { "name": "Azure DevOps", "icon": "devops" },
+      { "name": "CI/CD", "icon": "devops" },
+      { "name": "Git", "icon": "devops" }
+    ]
+  },
+  {
+    "category": "tools",
+    "items": [
+      { "name": "Scrum", "icon": "tool" },
+      { "name": "Postman", "icon": "laptop" },
+      { "name": "Figma", "icon": "laptop" },
+      { "name": "Dynamics AX", "icon": "laptop" }
+    ]
+  }
+]
